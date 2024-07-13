@@ -17,7 +17,7 @@ const restaurants: Restaurant[] = [
     address: "123 Main St. Anytown USA",
     score: 4.5,
     ratings: 100,
-    image: "https://source.unsplash.com/480x300/?restaurant&random=1",
+    image: "https://picsum.photos/480/300",
   },
   {
     id: "2",
@@ -26,7 +26,7 @@ const restaurants: Restaurant[] = [
     address: "456 Oak Ave. Anytown USA",
     score: 4.2,
     ratings: 80,
-    image: "https://source.unsplash.com/480x300/?restaurant&random=2",
+    image: "https://picsum.photos/480/300",
   },
   {
     id: "3",
@@ -36,7 +36,7 @@ const restaurants: Restaurant[] = [
     address: "789 Elm St. Anytown USA",
     score: 4.8,
     ratings: 120,
-    image: "https://source.unsplash.com/480x300/?restaurant&random=3",
+    image: "https://picsum.photos/480/300",
   },
   {
     id: "4",
@@ -45,7 +45,7 @@ const restaurants: Restaurant[] = [
     address: "101 Forest Rd. Anytown USA",
     score: 4.0,
     ratings: 60,
-    image: "https://source.unsplash.com/480x300/?restaurant&random=4",
+    image: "https://picsum.photos/480/300",
   },
   {
     id: "5",
@@ -54,7 +54,7 @@ const restaurants: Restaurant[] = [
     address: "246 Main St. Anytown USA",
     score: 4.6,
     ratings: 90,
-    image: "https://source.unsplash.com/480x300/?restaurant&random=5",
+    image: "https://picsum.photos/480/300",
   },
   {
     id: "6",
@@ -63,7 +63,7 @@ const restaurants: Restaurant[] = [
     address: "369 Beach Blvd. Anytown USA",
     score: 4.3,
     ratings: 70,
-    image: "https://source.unsplash.com/480x300/?restaurant&random=6",
+    image: "https://picsum.photos/480/300",
   },
   {
     id: "7",
@@ -72,7 +72,7 @@ const restaurants: Restaurant[] = [
     address: "753 Maple St. Anytown USA",
     score: 4.9,
     ratings: 150,
-    image: "https://source.unsplash.com/480x300/?restaurant&random=7",
+    image: "https://picsum.photos/480/300",
   },
   {
     id: "8",
@@ -81,7 +81,7 @@ const restaurants: Restaurant[] = [
     address: "852 Oak Ave. Anytown USA",
     score: 3.9,
     ratings: 50,
-    image: "https://source.unsplash.com/480x300/?restaurant&random=8",
+    image: "https://picsum.photos/480/300",
   },
   {
     id: "9",
@@ -91,7 +91,7 @@ const restaurants: Restaurant[] = [
     address: "963 Main St. Anytown USA",
     score: 4.7,
     ratings: 110,
-    image: "https://source.unsplash.com/480x300/?restaurant&random=9",
+    image: "https://picsum.photos/480/300",
   },
   {
     id: "10",
@@ -100,7 +100,7 @@ const restaurants: Restaurant[] = [
     address: "1479 Elm St. Anytown USA",
     score: 4.1,
     ratings: 75,
-    image: "https://source.unsplash.com/480x300/?restaurant&random=10",
+    image: "https://picsum.photos/480/3000",
   },
   {
     id: "11",
@@ -109,7 +109,7 @@ const restaurants: Restaurant[] = [
     address: "753 Main St. Anytown USA",
     score: 4.4,
     ratings: 65,
-    image: "https://source.unsplash.com/480x300/?restaurant&random=11",
+    image: "https://picsum.photos/480/3001",
   },
   {
     id: "12",
@@ -118,7 +118,7 @@ const restaurants: Restaurant[] = [
     address: "852 Oak Ave. Anytown USA",
     score: 4.9,
     ratings: 150,
-    image: "https://source.unsplash.com/480x300/?restaurant&random=12",
+    image: "https://picsum.photos/480/3002",
   },
 ];
 
