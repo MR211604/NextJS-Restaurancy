@@ -1,4 +1,5 @@
 import { Restaurant } from '@/api'
+import Link from 'next/link'
 
 interface Props {
   resturant: Restaurant
@@ -12,7 +13,10 @@ export default function Card({ resturant }: Props) {
         className="mb-3 h-[300px] w-full object-cover rounded-lg"
         alt={resturant.name} />
       <h2 className="inline-flex gap-2 text-lg font-bold">
-        <span>{resturant.name}</span>
+        {/* <span>{resturant.name}</span> */}
+        <Link href={`${resturant.id}`} key={resturant.id}>
+          {resturant.name}
+        </Link>
       </h2>
       <small className="inline-flex gap-1">
         <span>⭐</span>
